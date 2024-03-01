@@ -24,6 +24,7 @@ metadata/_edit_lock_ = true
 tile_set = ExtResource("3")
 format = 2
 layer_0/name = "Invisible walls"
+layer_0/tile_data = PackedInt32Array(-720879, 0, 0, -720878, 0, 0, -655342, 0, 0, -720880, 0, 0, -655348, 0, 0, -196601, 0, 0, -327673, 0, 0)
 metadata/_edit_lock_ = true
 
 [node name="Player" parent="." instance=ExtResource("4_0aj7g")]
