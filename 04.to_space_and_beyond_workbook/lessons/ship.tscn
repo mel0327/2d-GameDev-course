@@ -7,3 +7,6 @@
 position = Vector2(938, 523)
 texture = ExtResource("1_c2754")
 script = ExtResource("2_poxjg")
+
+[node name="Timer" type="Timer" parent="."]
+one_shot = true
