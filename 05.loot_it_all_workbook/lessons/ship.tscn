@@ -71,5 +71,3 @@ offset_right = 43.0
 offset_bottom = -59.0
 text = "x0"
 label_settings = SubResource("LabelSettings_oxmnb")
-
-[connection signal="area_entered" from="." to="." method="_on_area_entered"]
