@@ -68,4 +68,3 @@ func _spawn_random_item() -> void:
 	tween.set_ease(Tween.EASE_IN)
 	tween.tween_property(loot_item, "position:y", land_position.y, HALF_FLIGHT_TIME)
 
-
